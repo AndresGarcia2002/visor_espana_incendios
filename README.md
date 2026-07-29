@@ -23,4 +23,4 @@ Aplicación WebGIS para la visualización, filtrado espacial y consulta en tiemp
 ## Autor
 
 **Andrés García Séllez**  
-Geógrafo | Técnico GIS y Análisis Espacial
+Geógrafo | Técnico GIS
